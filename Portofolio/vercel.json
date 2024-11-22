@@ -1,3 +1,5 @@
 {
-  "public": "Portofolio"
+  "rewrites":  [
+    {"source": "/(.*)", "destination": "/"}
+  ]
 }
